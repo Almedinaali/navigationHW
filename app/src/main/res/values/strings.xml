@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zadaca-lv9</string>
+
+    <string name="button1">SIMPLE TABS</string>
+    <string name="button2">SCROLLABLE TABS</string>
+    <string name="button3">ICON &amp; TEXT TABS</string>
+    <string name="button4">ONLY ICON TABS</string>
+    <string name="button5">BOTTOM NAVIGATION</string>
+
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="four">FOUR</string>
+    <string name="five">FIVE</string>
+    <string name="six">SIX</string>
+    <string name="seven">SEVEN</string>
+    <string name="eight">EIGHT</string>
+    <string name="nine">NINE</string>
+    <string name="ten">TEN</string>
+
+
+</resources>
